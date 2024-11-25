@@ -37,6 +37,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.AppShel
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Coroian Emanuel/Desktop/CoroianEmanuelLab7/ListEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.ListEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListEntryPage.xaml
+
+[C:/Users/Coroian Emanuel/Desktop/CoroianEmanuelLab7/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListPage.xaml
+
 [C:/Users/Coroian Emanuel/Desktop/CoroianEmanuelLab7/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.MainPage.xaml
