@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-25T14:02:57.307</Modified>
+      <Modified>2024-12-03T15:13:31.213</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-25T14:02:56.589</Modified>
+      <Modified>2024-12-03T09:15:47.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoroianEmanuelLab7.runtimeconfig.json">
       <PackagePath>CoroianEmanuelLab7.runtimeconfig.json</PackagePath>
-      <Modified>2024-11-25T14:02:54.229</Modified>
+      <Modified>2024-12-03T09:15:45.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoroianEmanuelLab7.dll">
       <PackagePath>CoroianEmanuelLab7.dll</PackagePath>
-      <Modified>2024-11-25T14:02:47.416</Modified>
+      <Modified>2024-12-03T15:13:29.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CoroianEmanuelLab7.exe</PackagePath>
-      <Modified>2024-11-25T14:02:47.511</Modified>
+      <Modified>2024-12-03T15:13:29.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:38.870</Modified>
+      <Modified>2024-12-03T09:12:59.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:38.886</Modified>
+      <Modified>2024-12-03T09:12:59.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:38.933</Modified>
+      <Modified>2024-12-03T09:12:59.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:39.026</Modified>
+      <Modified>2024-12-03T09:13:00.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:39.261</Modified>
+      <Modified>2024-12-03T09:13:00.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -82,221 +82,221 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-11-18T12:50:17.381</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg">
-      <PackagePath>shop_list.scale-100.jpg</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pawn_logo.scale-100.jpg">
-      <PackagePath>pawn_logo.scale-100.jpg</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
+      <Modified>2024-12-03T09:13:11.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:10.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:10.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:10.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:10.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+      <Modified>2024-12-03T09:13:12.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+      <Modified>2024-12-03T09:13:12.248</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.432</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.186</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.061</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.154</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
+      <Modified>2024-12-03T09:13:12.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-11-25T14:02:44.448</Modified>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:11.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pawn_logo.scale-100.jpg">
+      <PackagePath>pawn_logo.scale-100.jpg</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg">
+      <PackagePath>shop_list.scale-100.jpg</PackagePath>
+      <Modified>2024-12-03T09:13:12.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\Desktop\CoroianEmanuelLab7\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoroianEmanuelLab7.deps.json">
       <PackagePath>CoroianEmanuelLab7.deps.json</PackagePath>
-      <Modified>2024-11-25T14:02:52.311</Modified>
+      <Modified>2024-12-03T09:15:45.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -438,9 +438,17 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-26T19:15:16.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-13T23:06:14.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
       <PackagePath>SQLite-net.dll</PackagePath>
       <Modified>2024-03-27T22:22:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Coroian Emanuel\.nuget\packages\sqlitenetextensions\2.1.0\lib\netstandard1.1\SQLiteNetExtensions.dll">
+      <PackagePath>SQLiteNetExtensions.dll</PackagePath>
+      <Modified>2018-08-13T22:28:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Coroian Emanuel\.nuget\packages\sqlitepclraw.bundle_green\2.1.2\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
       <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>

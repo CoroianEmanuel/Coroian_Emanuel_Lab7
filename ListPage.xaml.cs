@@ -21,4 +21,39 @@ public partial class ListPage : ContentPage
         await App.Database.DeleteShopListAsync(slist);
         await Navigation.PopAsync();
     }
+    async void OnChooseButtonClicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new ProductPage((ShopList)
+        this.BindingContext)
+        {
+            BindingContext = new Product()
+        });
+    }
+    async void OnDeleteItemButtonClicked(object sender, EventArgs e)
+    {
+        // Obtine produsul selectat din ListView
+        var selectedProduct = listView.SelectedItem as Product;
+        if (selectedProduct != null)
+        {
+            // Sterge produsul selectat din baza de date
+            await App.Database.DeleteProductAsync(selectedProduct);
+
+            // Actualizeaza lista de produse afisata în functie de lista curenta
+            var shopList = (ShopList)BindingContext;
+            listView.ItemsSource = await App.Database.GetListProductsAsync(shopList.ID);
+        }
+        else
+        {
+            // Mesaj daca nu a fost selectat niciun produs
+            await DisplayAlert("Eroare", "Nu ai selectat niciun produs pentru stergere!", "OK");
+        }
+    }
+
+
+    protected override async void OnAppearing()
+    {
+        base.OnAppearing();
+        var shopl = (ShopList)BindingContext;
+        listView.ItemsSource = await App.Database.GetListProductsAsync(shopl.ID);
+    }
 }
