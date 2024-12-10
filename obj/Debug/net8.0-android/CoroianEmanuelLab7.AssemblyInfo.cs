@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoroianEmanuelLab7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3bfa2a7f914bb990606ae796fbd9c886f30e6ea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dbb26e69ee919e9fa7cc0275af10c86032116101")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoroianEmanuelLab7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoroianEmanuelLab7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

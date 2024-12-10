@@ -72,3 +72,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Coroian Emanuel/Desktop/CoroianEmanuelLab7/ShopEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.ShopEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopEntryPage.xaml
+
+[C:/Users/Coroian Emanuel/Desktop/CoroianEmanuelLab7/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CoroianEmanuelLab7.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopPage.xaml

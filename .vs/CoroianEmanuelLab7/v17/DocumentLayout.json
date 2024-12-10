@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\shopentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:shopentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|c:\\users\\coroian emanuel\\desktop\\coroianemanuellab7\\shopentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CB1161-AE7A-49E0-846F-849E6C6F6F0D}|CoroianEmanuelLab7.csproj|solutionrelative:shopentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml.cs",
+              "RelativeToolTip": "ProductPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:56:10.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListPage.xaml.cs",
+              "RelativeToolTip": "ListPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:32:35.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,87 +98,9 @@
               "RelativeDocumentMoniker": "ListPage.xaml",
               "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListPage.xaml",
               "RelativeToolTip": "ListPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T08:33:22.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListPage.xaml.cs",
-              "RelativeToolTip": "ListPage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAArwBUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:36:14.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ListProduct.cs",
-              "RelativeDocumentMoniker": "Models\\ListProduct.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ListProduct.cs",
-              "RelativeToolTip": "Models\\ListProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:24:51.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingListDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Data\\ShoppingListDatabase.cs",
-              "RelativeDocumentMoniker": "Data\\ShoppingListDatabase.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Data\\ShoppingListDatabase.cs",
-              "RelativeToolTip": "Data\\ShoppingListDatabase.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:29:30.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml.cs",
-              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml.cs",
-              "RelativeToolTip": "ProductPage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAewBUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:32:08.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListEntryPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListEntryPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListEntryPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListEntryPage.xaml.cs",
-              "RelativeToolTip": "ListEntryPage.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:06:45.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ListEntryPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListEntryPage.xaml",
-              "RelativeDocumentMoniker": "ListEntryPage.xaml",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ListEntryPage.xaml",
-              "RelativeToolTip": "ListEntryPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T14:37:19.267Z",
+              "WhenOpened": "2024-12-10T15:32:04.157Z",
               "EditorCaption": ""
             },
             {
@@ -163,61 +111,113 @@
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAArwEYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwE4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:29:16.571Z",
+              "WhenOpened": "2024-12-10T15:20:26.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ValidationBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ValidationBehaviour.cs",
-              "RelativeDocumentMoniker": "ValidationBehaviour.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ValidationBehaviour.cs",
-              "RelativeToolTip": "ValidationBehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ShoppingListDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Data\\ShoppingListDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\ShoppingListDatabase.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Data\\ShoppingListDatabase.cs",
+              "RelativeToolTip": "Data\\ShoppingListDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:45:31.433Z",
+              "WhenOpened": "2024-12-10T11:48:05.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T11:46:46.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShopPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopPage.xaml.cs",
+              "RelativeToolTip": "ShopPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:41:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopPage.xaml",
+              "RelativeDocumentMoniker": "ShopPage.xaml",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopPage.xaml",
+              "RelativeToolTip": "ShopPage.xaml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T11:39:25.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ShopList.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ShopList.cs",
-              "RelativeDocumentMoniker": "Models\\ShopList.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ShopList.cs",
-              "RelativeToolTip": "Models\\ShopList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShopEntryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopEntryPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShopEntryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopEntryPage.xaml.cs",
+              "RelativeToolTip": "ShopEntryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:57:15.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml",
-              "RelativeDocumentMoniker": "ProductPage.xaml",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ProductPage.xaml",
-              "RelativeToolTip": "ProductPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T08:26:45.615Z",
+              "WhenOpened": "2024-12-09T13:24:33.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAkAAAABAAAAAAAAAA==",
+              "Title": "ShopEntryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopEntryPage.xaml",
+              "RelativeDocumentMoniker": "ShopEntryPage.xaml",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\ShopEntryPage.xaml",
+              "RelativeToolTip": "ShopEntryPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T13:21:11.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopList.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ShopList.cs",
+              "RelativeDocumentMoniker": "Models\\ShopList.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\ShopList.cs",
+              "RelativeToolTip": "Models\\ShopList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:23:16.58Z",
+              "WhenOpened": "2024-12-09T13:11:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\Coroian Emanuel\\Desktop\\CoroianEmanuelLab7\\Models\\Shop.cs",
+              "RelativeToolTip": "Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:15:24.417Z",
               "EditorCaption": ""
             }
           ]
